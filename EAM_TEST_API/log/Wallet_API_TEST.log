@@ -1,0 +1,19 @@
+添加日志012020-10-23 16:54:40,481 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='192.168.1.200', port=443): Max retries exceeded with url: //otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10b731dd0>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+2020-10-23 16:57:59,595 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='192.168.1.200', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10a71f390>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+2020-10-29 13:39:49,471 - conftest.py - INFO - [line:15] -
+ ============================= 在所有用例执行之前，生成token =============================
+2020-10-29 13:39:50,053 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ce23750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 13:39:50,054 - test_asset.py - INFO - [line:16] -
+ ==============================【资产】测试用例开始 ==============================
+2020-10-29 13:39:50,074 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10cca4ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 15:50:25,971 - conftest.py - INFO - [line:15] -
+ ============================= 在所有用例执行之前，生成token =============================
+2020-10-29 15:50:26,006 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10dde8e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 15:50:26,006 - test_otc.py - INFO - [line:17] -
+ ==============================【资产】测试用例开始 ==============================
+2020-10-29 15:50:26,025 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10dde8e10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 16:07:52,365 - test_otc.py - INFO - [line:17] -
+ ==============================【资产】测试用例开始 ==============================
+2020-10-29 16:07:52,396 - all_api.py - INFO - [line:39] - 接口访问出错啦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x11090b7d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))2024-03-01 17:12:34,302 - all_api.py - INFO - [line:43] - �ӿڷ��ʳ�����~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DEC4898520>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2024-03-07 15:30:08,899 - test_login.py - INFO - [line:19] - 
+ ==============================����¼������������ʼ ==============================

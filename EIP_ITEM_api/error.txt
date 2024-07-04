@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='m.wzmtr.com', port=7443): Max retries exceeded with url: /eip/mobile/co/oapi/forward?appid=a4c768b67aa74fa28c7767188cad7ac9 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A60E10BE20>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))

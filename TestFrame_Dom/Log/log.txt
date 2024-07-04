@@ -1,0 +1,1 @@
+Testing write permission.2024-07-02 14:58:27,024 - main.jd - Log.py[line:65] - INFO - log test ------------------------------------

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/EAM_TEST_API" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Eam_ApiTestCase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Crew_system_Auto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Appium_Wzmtr_APP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EAM-T" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EIP_ITEM_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestDom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestFrame_Dom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Wzmtr_App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/item" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

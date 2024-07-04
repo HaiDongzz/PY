@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-cn" tn-launch-app="triton.xiumi.general.page">
+<head>
+    
+<title>出错了！ - 秀米XIUMI</title>
+
+
+<meta charset="UTF-8">
+
+
+<base target="_top"/>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta http-equiv="x-rim-auto-match" content="none">
+
+<script>
+    (function (window, document, navigator) {
+        var doc = document.documentElement;
+        doc.setAttribute('data-useragent', navigator.userAgent);
+    })(window, window.document, window.navigator);
+</script>
+
+
+    <meta name="title" content="秀米XIUMI"/>
+<meta name="author" content="xiumi.us 秀睿信息科技">
+<meta name="keywords" content="秀米,XIUMI,秀,秀睿信息科技,微信,公众号,图文消息,图文排版,排版,助手">
+<meta name="robots" content="noindex, nofollow">
+
+
+    <link rel="stylesheet" href="//stc.xiumi.us/styles/app/error/2d8441.index.min.css">
+
+    <script id="__pre_data">
+        window.injectedData = window.injectedData || {};
+
+        injectedData.statusPromptTexts = {
+            "NOTHING": ""
+        };
+        injectedData.userInfo = JSON.parse(decodeURIComponent(""));
+    </script>
+
+    <style>
+        .partner-err-detail-line{
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .partner-err-code{
+            font-size: x-small;
+            color: gray;
+        }
+    </style>
+
+    <script id="__delete_pre_data">
+    var __pre_data = document.getElementById('__pre_data');
+    if (!!__pre_data) {
+        __pre_data.parentNode.removeChild(__pre_data);
+    }
+    var __pre_connect = document.getElementById('__pre_connect');
+    if (!!__pre_connect) {
+        __pre_connect.parentNode.removeChild(__pre_connect);
+    }
+    var __delete_pre_data = document.getElementById('__delete_pre_data');
+    if (!!__delete_pre_data) {
+        __delete_pre_data.parentNode.removeChild(__delete_pre_data);
+    }
+</script>
+</head>
+<body class="error-body tn-user-setting full-height-box">
+
+<div class="inner container container-full-width" ng-controller="GeneralPageController">
+
+    <div class="tn-note-panel">
+        <div class="alert tn-note-message text-center"
+             ng-class="messages.levelClass" ng-show="messages.showTips" ng-cloak>
+            <span ng-bind="messages.tipsText"></span>
+        </div>
+    </div>
+
+    
+
+    
+    <div class="tn-error-panel container tn-before-footer">
+        <div class="row">
+            
+            <h2 class="col-sm-12 status text-center">404</h2>
+            
+            <h1 class="col-sm-12 title text-center">出错了：Common:Failed_NotFound</h1>
+            
+        </div>
+
+        
+    </div>
+    
+
+    <section class="row tn-footer">
+        <footer class="mobile-hide">
+    <div class="copyright">
+        <span>Copyright </span>
+        <span class="glyphicon glyphicon-copyright-mark"></span>
+        <span> 2014 秀睿信息科技（上海）有限公司. All rights reserved.</span>
+    </div>
+    <div class="declare">
+        <span class="white">POWERED BY</span>
+        <span class="red">XIUMI</span>
+
+        <span class="version">
+            v8.86.5
+        </span>
+        <span class="beian"><a href="http://www.miitbeian.gov.cn/">沪ICP备14013165号-2</a></span>
+    </div>
+</footer>
+
+    </section>
+
+</div>
+
+<section class="tn-script">
+
+    <!-- 3rd -->
+    <script src="//stc.xiumi.us/3rd/CDN/jquery/3.7.0/jquery.min.js"></script>
+    <script src="//stc.xiumi.us/3rd/CDN/angular.js/1.2.18/angular.min.js"></script>
+    <script src="//stc.xiumi.us/3rd/CDN/angular.js/1.2.18/angular-animate.min.js"></script>
+
+    <script src="//stc.xiumi.us/apps/home/scripts/fcf1f8.errpage.min.js"></script>
+
+</section>
+
+</body>
+</html>
